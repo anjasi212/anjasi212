@@ -3,11 +3,6 @@
 <p align="center">
   <em>⚙️ Coder | 🤖 AI Explorer | 🧩 Full-Stack Developer</em>
 </p>
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/03/22/06/47/working-6113636_1280.png" width="300" alt="Girl Working at Desk" />
-</p>
-
 ---
 
 ## 🧠 About Me
