@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2022/11/11/19/31/remote-work-7584381_960_720.png" width="300" alt="Girl Working at Desk" />
+  <img src="https://media.giphy.com/media/3ohc12Q9EKE0Ec1Okw/giphy.gif" width="350" alt="Focused Hardworking Girl" />
 </p>
+
 
 ---
 
