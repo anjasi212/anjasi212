@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
+
 ---
+
 ## 🧠 About Me
 
 I'm a Computer Science undergraduate who enjoys building meaningful tech. I’m passionate about solving real-world problems with code—be it through AI models, full-stack web applications, or automation tools.
