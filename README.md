@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png" width="200" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Girl coding"/>
 </p>
-
 ---
 ## 🧠 About Me
 
