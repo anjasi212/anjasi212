@@ -50,7 +50,6 @@ I love working on cutting-edge technologies in AI/ML, and also thrive when devel
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjasi212&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjasi212&layout=compact&theme=tokyonight" />
 </p>
 
