@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/03/22/06/47/working-6113636_1280.png" width="300" alt="Corporate Professional Woman at Desk" />
+  <img src="https://static.vecteezy.com/system/resources/previews/079/833/863/original/set-of-women-with-laptops-at-home-empowered-business-woman-or-freelancer-working-on-computer-at-home-or-cafe-flat-vector-illustration.png" width="300" alt="Empowered business woman working on laptop at home or cafe" />
 </p>
 
 ---
