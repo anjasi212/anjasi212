@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/31/36/1e3136c47316694a15bcd709df2a5744.gif" width="350" alt="Girl coding animated" />
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="400" alt="Anime Girl Studying" />
 </p>
-
 
 ---
 
