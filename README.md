@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="400" alt="Anime Girl Late Night Study" />
+  <img src="https://cdn.pixabay.com/photo/2022/11/11/19/31/remote-work-7584381_960_720.png" width="300" alt="Girl Working at Desk" />
 </p>
-
 
 ---
 
