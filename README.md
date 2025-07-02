@@ -13,9 +13,6 @@
 ## 🧠 About Me
 
 I'm a Computer Science undergraduate who enjoys building meaningful tech. I’m passionate about solving real-world problems with code—be it through AI models, full-stack web applications, or automation tools.
-
-I love working on cutting-edge technologies in AI/ML, and also thrive when developing scalable front-end and back-end systems.
-
 > "Whether it's AI logic or UI magic — I'm all about making technology impactful, accessible, and exciting."
 
 ---
