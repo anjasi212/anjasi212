@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/079/833/863/original/set-of-women-with-laptops-at-home-empowered-business-woman-or-freelancer-working-on-computer-at-home-or-cafe-flat-vector-illustration.png" width="300" alt="Empowered business woman working on laptop at home or cafe" />
+  <img src="https://chatgpt.com/c/68656681-e71c-800c-b36f-29295adaa444" />
 </p>
 
 ---
