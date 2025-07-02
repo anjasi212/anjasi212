@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Girl coding" />
+  <img src="https://i.pinimg.com/originals/1e/31/36/1e3136c47316694a15bcd709df2a5744.gif" width="350" alt="Girl coding animated" />
 </p>
 
 
