@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="400" alt="Anime Girl Studying" />
+  <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="400" alt="Anime Girl Late Night Study" />
 </p>
+
 
 ---
 
