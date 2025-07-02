@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anjasi Jaiman</h1>
 
 <p align="center">
@@ -7,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Girl coding" />
 </p>
+
 
 ---
 
@@ -62,7 +61,7 @@ I love working on cutting-edge technologies in AI/ML, and also thrive when devel
 ## 🌐 Connect With Me
 
 - 📧 Email: anjasi.jaiman@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anjasi-jaiman-974b3a251/) *(Update with real link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjasi-jaiman-974b3a251/)  
 - 🌍 LeetCode: https://leetcode.com/u/user2419Fa/
 
 ---
