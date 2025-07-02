@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc12Q9EKE0Ec1Okw/giphy.gif" width="350" alt="Focused Hardworking Girl" />
+  <img src="https://cdn.pixabay.com/photo/2021/03/22/06/47/working-6113636_1280.png" width="300" alt="Corporate Professional Woman at Desk" />
 </p>
-
 
 ---
 
