@@ -3,8 +3,12 @@
 <p align="center">
   <em>⚙️ Coder | 🤖 AI Explorer | 🧩 Full-Stack Developer</em>
 </p>
----
 
+<p align="center">
+  <img src="https://www.pngitem.com/pimgs/m/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png" width="200" />
+</p>
+
+---
 ## 🧠 About Me
 
 I'm a Computer Science undergraduate who enjoys building meaningful tech. I’m passionate about solving real-world problems with code—be it through AI models, full-stack web applications, or automation tools.
