@@ -57,7 +57,6 @@ I'm a Computer Science undergraduate who enjoys building meaningful tech. I’m 
 
 - 📧 Email: anjasi.jaiman@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjasi-jaiman-974b3a251/)  
-- 🌍 LeetCode: https://leetcode.com/u/user2419Fa/
 
 ---
 
