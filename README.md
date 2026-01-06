@@ -21,8 +21,11 @@ I'm a Computer Science undergraduate passionate about building **data-driven and
 ## 💻 What I Do
 
 🚀 Build full-stack applications using **React.js, Node.js, Express, and MongoDB**
+
 🤖 Develop **ML & GenAI systems** with Python, TensorFlow, PyTorch, NLP, and RAG pipelines
+
 📊 Analyze data using **Python, SQL, Power BI**, and statistical techniques to generate insights
+
 🎯 Solve algorithmic problems using **DSA, Java, and C++**
 
 ---
@@ -30,37 +33,22 @@ I'm a Computer Science undergraduate passionate about building **data-driven and
 ## 🛠️ Tech Stack
 
 ### Languages
-
 Python | JavaScript | Java | C++ | HTML | CSS
 
 ### Frameworks & Libraries
-
 React.js | Node.js | Express.js | Flask | Tailwind CSS | Streamlit
 
 ### Databases
-
 MongoDB | MySQL
 
 ### Machine Learning & AI
-
 TensorFlow | PyTorch | scikit-learn | NLP | OpenCV | Predictive Modeling
 
 ### Data & Analytics
-
 Pandas | NumPy | Matplotlib | Power BI | Excel
 
 ### Tools & Platforms
-
 Git & GitHub | VS Code | Google Colab | Postman | AWS
-
----
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjasi212&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
