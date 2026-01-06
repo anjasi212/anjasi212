@@ -12,38 +12,49 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science undergraduate who enjoys building meaningful tech. I’m passionate about solving real-world problems with code—be it through AI models, full-stack web applications, or automation tools.
-> "Whether it's AI logic or UI magic — I'm all about making technology impactful, accessible, and exciting."
+I'm a Computer Science undergraduate passionate about building **data-driven and AI-powered solutions** that solve real-world problems. I enjoy working across the stack—combining intelligent models, scalable backends, and clean user experiences to create meaningful technology.
+
+> *“From AI intelligence to intuitive interfaces, I focus on building tech that delivers real impact.”*
 
 ---
 
 ## 💻 What I Do
 
-- 🚀 Build full-stack web applications using **React.js**, **Node.js**, and **MongoDB**
-- 🤖 Design intelligent systems with **Python**, **TensorFlow**, **PyTorch**, and **scikit-learn**
-- 🎯 Solve problems using **DSA**, **Java**, and **C++**
-- 📊 Work on data-driven projects with **Pandas**, **NumPy**, and **Matplotlib**
+🚀 Build full-stack applications using **React.js, Node.js, Express, and MongoDB**
+🤖 Develop **ML & GenAI systems** with Python, TensorFlow, PyTorch, NLP, and RAG pipelines
+📊 Analyze data using **Python, SQL, Power BI**, and statistical techniques to generate insights
+🎯 Solve algorithmic problems using **DSA, Java, and C++**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` | `JavaScript` | `C++` | `Java` | `HTML` | `CSS`
+### Languages
 
-**Frameworks & Libraries:**  
-`React.js` | `Node.js` | `Express.js` | `Tailwind CSS` | `Streamlit` | `Flask`
+Python | JavaScript | Java | C++ | HTML | CSS
 
-**Databases:**  
-`MongoDB` | `MySQL`
+### Frameworks & Libraries
 
-**Machine Learning & AI:**  
-`TensorFlow` | `PyTorch` | `scikit-learn` | `OpenCV`
+React.js | Node.js | Express.js | Flask | Tailwind CSS | Streamlit
 
-**Tools & Platforms:**  
-`VS Code` | `Git & GitHub` | `Google Colab` | `Postman`
+### Databases
+
+MongoDB | MySQL
+
+### Machine Learning & AI
+
+TensorFlow | PyTorch | scikit-learn | NLP | OpenCV | Predictive Modeling
+
+### Data & Analytics
+
+Pandas | NumPy | Matplotlib | Power BI | Excel
+
+### Tools & Platforms
+
+Git & GitHub | VS Code | Google Colab | Postman | AWS
 
 ---
+
 
 ## 📈 GitHub Stats
 
