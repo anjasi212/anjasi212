@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjasi Jaiman</h1>
 
 <p align="center">
-  <em>⚙️ Coder | 🤖 Data Science | 🧩 Full-Stack Developer</em>
+  <em>⚙️ Coder | 🤖 Aspiring Data Scientist | 🧩 Full-Stack Developer</em>
 </p>
 
 <p align="center">
